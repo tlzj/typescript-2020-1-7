@@ -120,13 +120,13 @@
 // JQuery.ajax('/api');
 
 // ====== npm包 =====
-import { name, getName, Animal, Directions, Options } from './foo.js';
-console.log(name);
-let myName = getName();
-let cat = new Animal('Tom');
-let directions = [Directions.Up, Directions.Down, Directions.Left, Directions.Right];
-let options = {
-    data: {
-        name: Options.data
-    }
-};
+// import { name, getName, Animal, Directions, Options } from './foo.js';
+// console.log(name);
+// let myName = getName();
+// let cat = new Animal('Tom');
+// let directions = [Directions.Up, Directions.Down, Directions.Left, Directions.Right];
+// let options = {
+//     data: {
+//         name: Options.data
+//     }
+// };
