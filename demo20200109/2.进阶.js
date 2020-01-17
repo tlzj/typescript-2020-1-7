@@ -9,4 +9,4 @@
 //     return n();
 //   }
 // }
-var directions = [Directions.Up, Directions.Down, Directions.Left, Directions.Right];
+// var directions = [Directions.Up, Directions.Down, Directions.Left, Directions.Right];
